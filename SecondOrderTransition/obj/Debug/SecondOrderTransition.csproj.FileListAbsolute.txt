@@ -1,0 +1,11 @@
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\bin\Debug\SecondOrderTransition.exe.config
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\bin\Debug\SecondOrderTransition.exe
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\bin\Debug\SecondOrderTransition.pdb
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.csproj.AssemblyReference.cache
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.Form1.resources
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.Properties.Resources.resources
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.csproj.GenerateResource.cache
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.exe
+E:\CPS LAB\Finals\SecondOrderTransition\SecondOrderTransition\obj\Debug\SecondOrderTransition.pdb
